@@ -1,0 +1,20 @@
+{
+  "name": "ws_livereload",
+  "version": "0.1",
+  "description": "",
+  "main": "livereload.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SergeiMinaev/ws_livereload.git"
+  },
+  "keywords": [],
+  "author": "Sergei Minaev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SergeiMinaev/ws_livereload/issues"
+  },
+  "homepage": "https://github.com/SergeiMinaev/ws_livereload#readme"
+}
